@@ -16,11 +16,11 @@ Scripts to help you recover a lost mac computer.
 #####LocateMe:  A command-line utility to use OS X's geolocation service
 - Download from: https://github.com/netj/LocateMe
 - Install in: /usr/local/bin/LocateMe
-- 
+
 #####mailsend: A program to send mail via SMTP from command line
 - Download from: https://github.com/muquit/mailsend
 - Install in: /usr/local/bin/mailsend
-- 
+
 #####imagesnap: Capture Images from the Command Line
-Download from http://www.iharder.net/current/macosx/imagesnap/
+- Download from http://www.iharder.net/current/macosx/imagesnap/
 - Install in: /usr/local/bin/imagesnap
