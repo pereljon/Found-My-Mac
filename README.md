@@ -2,11 +2,11 @@
 Scripts to help you recover a lost mac computer.
 
 LostMyMac.sh: 
--1. Enables Mac OS Location Services.
--2. Authorizes LocateMe (wi-fi/GPS locator)
--3. Get current location of computer (requires AirPort interface to be active)
--4. Take picture using iSight camera.
--5. Send email through authenticated SMTP server with image attached and Google Maps GPS URL.
+1. Enables Mac OS Location Services.
+2. Authorizes LocateMe (wi-fi/GPS locator)
+3. Get current location of computer (requires AirPort interface to be active)
+4. Take picture using iSight camera.
+5. Send email through authenticated SMTP server with image attached and Google Maps GPS URL.
 
 Requires:
 
